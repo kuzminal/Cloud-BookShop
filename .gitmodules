@@ -13,6 +13,3 @@
 [submodule "BookShop-Order-Service"]
 	path = BookShop-Order-Service
 	url = https://github.com/kuzminal/BookShop-Order-Service.git
-[submodule "Book-Shop-Users-Service"]
-	path = Book-Shop-Users-Service
-	url = https://github.com/kuzminal/Book-Shop-Users-Service.git
