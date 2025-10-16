@@ -1,0 +1,15 @@
+[submodule "BookShop-Catalog"]
+	path = BookShop-Catalog
+	url = https://github.com/kuzminal/BookShop-Catalog.git
+[submodule "BookShop-Config"]
+	path = BookShop-Config
+	url = https://github.com/kuzminal/BookShop-Config.git
+[submodule "BookShop-Config-Repo"]
+	path = BookShop-Config-Repo
+	url = https://github.com/kuzminal/BookShop-Config-Repo.git
+[submodule "BookShop-Gateway"]
+	path = BookShop-Gateway
+	url = https://github.com/kuzminal/BookShop-Gateway.git
+[submodule "BookShop-Order-Service"]
+	path = BookShop-Order-Service
+	url = https://github.com/kuzminal/BookShop-Order-Service.git
